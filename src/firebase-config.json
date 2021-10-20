@@ -1,9 +1,9 @@
 {
-  "apiKey": "AIzaSyDk7VMMBwr6bqDsrzbUYGpnthHaMioYe2s",
-  "authDomain": "chat-app-15946.firebaseapp.com",
-  "projectId": "chat-app-15946",
-  "storageBucket": "chat-app-15946.appspot.com",
-  "messagingSenderId": "533178884935",
-  "appId": "1:533178884935:web:ef9483d776d0107ffe6262",
-  "measurementId": "G-P58VBCQ0SY"
+  "apiKey": "AIzaSyBybItcae9lKNC7rBideQdF8wP-ty89uuE",
+  "authDomain": "react-chat-app-71175.firebaseapp.com",
+  "projectId": "react-chat-app-71175",
+  "storageBucket": "react-chat-app-71175.appspot.com",
+  "messagingSenderId": "502182689508",
+  "appId": "1:502182689508:web:fd40f34342d77415dacaf1",
+  "measurementId": "G-8RBHMHZ4GZ"
 }
